@@ -121,15 +121,13 @@ documentation and uses it to generate grounded responses.
 [🔗 Repository](https://github.com/Guru2907/Orbit-AI)  
 [🌐 Live Demo](https://orbit-ai-flowspace.vercel.app/)
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Guru2907&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180" src="./profile/stats.svg" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guru2907&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+<img height="180" src="./profile/top-langs.svg" />
 
 </div>
 
