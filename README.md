@@ -21,7 +21,7 @@ practical software and AI-powered applications.
 - 🛠️ Interested in **backend engineering, system design & software engineering**
 - 📚 Currently strengthening my **DSA & problem-solving skills**
 
-
+---
 
 ## 🛠️ Tech Stack
 
@@ -120,6 +120,8 @@ documentation and uses it to generate grounded responses.
 
 [🔗 Repository](https://github.com/Guru2907/Orbit-AI)  
 [🌐 Live Demo](https://orbit-ai-flowspace.vercel.app/)
+
+---
 
 ## 📊 GitHub Stats
 
