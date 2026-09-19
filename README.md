@@ -21,19 +21,7 @@ practical software and AI-powered applications.
 - 🛠️ Interested in **backend engineering, system design & software engineering**
 - 📚 Currently strengthening my **DSA & problem-solving skills**
 
----
 
-## 🌱 Currently Learning
-
-```text
-Generative AI        ███████████████░░░
-Machine Learning     ████████████░░░░░░
-AI Engineering       █████████████░░░░░
-DSA & Algorithms     ███████████░░░░░░░░
-Backend Engineering  █████████████░░░░░
-```
-
----
 
 ## 🛠️ Tech Stack
 
