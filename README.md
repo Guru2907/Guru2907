@@ -6,17 +6,37 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Exploring+Generative+AI+%26+Machine+Learning;RAG+%26+Agentic+AI;Full-Stack+Development)](https://git.io/typing-svg)
 
-<p>
-  <a href="https://github.com/Guru2907">
-    <img src="https://img.shields.io/badge/GitHub-Guru2907-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/gurpreet-singh29/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gurpreet%20Singh-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gurpreetsingh200529@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" bgcolor="#161B22">
+      <strong>
+        <font color="#58A6FF">AI / ML</font>
+        &nbsp;•&nbsp;
+        <font color="#58A6FF">Generative AI</font>
+        &nbsp;•&nbsp;
+        <font color="#58A6FF">RAG</font>
+        &nbsp;•&nbsp;
+        <font color="#58A6FF">Full-Stack</font>
+        &nbsp;•&nbsp;
+        <font color="#58A6FF">Backend</font>
+      </strong>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<a href="https://github.com/Guru2907">
+  <img src="https://img.shields.io/badge/GitHub-Guru2907-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/gurpreet-singh29/">
+  <img src="https://img.shields.io/badge/LinkedIn-Gurpreet_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:gurpreetsingh200529@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -110,10 +130,10 @@ using Gemini.
 
 <p>
   <a href="https://github.com/Guru2907/HireTrack">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://hiretrack-black.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -139,10 +159,10 @@ documentation and uses it to generate grounded responses.
 
 <p>
   <a href="https://github.com/Guru2907/Orbit-AI">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://orbit-ai-flowspace.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -183,27 +203,19 @@ documentation and uses it to generate grounded responses.
 
 ---
 
+<div align="center">
+
 ## 🤝 Let's Connect
 
-<div align="center">
-
-<a href="mailto:gurpreetsingh200529@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 <a href="https://www.linkedin.com/in/gurpreet-singh29/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:gurpreetsingh200529@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/Guru2907">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
+<br><br>
 
 ### 🚀 Learn. Build. Ship. Repeat.
 
